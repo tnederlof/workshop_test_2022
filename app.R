@@ -3,7 +3,7 @@
 library(shiny)
 
 ui<- fluidPage(
-  titlePanel("Adverse Events Query to OpenFDA 2", windowTitle = "Adverse Events Query to OpenFDA"),
+  titlePanel("Adverse Events Query to OpenFDA", windowTitle = "Adverse Events Query to OpenFDA"),
   fluidRow(
     column(3,
            br(),

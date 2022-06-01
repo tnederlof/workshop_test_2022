@@ -680,10 +680,16 @@
     },
     "renv": {
       "Package": "renv",
-      "Version": "0.15.4",
-      "Source": "Repository",
-      "Repository": "RSPM",
-      "Hash": "c1078316e1d4f70275fc1ea60c0bc431",
+      "Version": "0.15.5-6",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteRepo": "renv",
+      "RemoteUsername": "rstudio",
+      "RemotePkgRef": "rstudio/renv",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "0b6a5a4a93105fd05c5f3c0d540c050debc4a9ca",
+      "Hash": "b16fc03198ec577f5f6ae0a53f351a92",
       "Requirements": []
     },
     "rlang": {
