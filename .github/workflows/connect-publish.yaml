@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Publish Connect content
-        uses: rstudio/actions/connect-publish@master
+        uses: rstudio/actions/connect-publish@main
         with:
           url: https://colorado.rstudio.com/rsc
           api-key: ${{ secrets.CONNECT_API_KEY }}
